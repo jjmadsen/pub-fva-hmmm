@@ -5,5 +5,7 @@ domains using extHMMM. Jesper J. Madsen & Y. Zenmei Ohkubo. PLOS Comput Biol (20
 
 ## DETAILS ##
 prod_dcle_tightrest: analysis of trajectories #1-#3
+
 prod_dcle_tightrest_120apl: analysis of trajectories #4-#6
+
 trj_processing: general scripts for trajectory processing
